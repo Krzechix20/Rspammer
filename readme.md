@@ -10,3 +10,12 @@ At the end you enter the delay between each message
 Then the program gives you 5 seconds to click where the text will be typed
 
 Then you can relax while the friend who is always late receives all that spam
+
+# Installation
+Go to [releases]"https://github.com/Krzechix20/Rspammer/releases"
+
+Download the Rspammer.zip
+
+Extract it to a desired location
+
+Run the rspammer.exe and use it!
